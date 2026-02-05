@@ -1,4 +1,6 @@
 """Configuration module."""
 from .settings import Settings
 
-__all__ = ["Settings"]
+settings = Settings()
+
+__all__ = ["settings", "Settings"]

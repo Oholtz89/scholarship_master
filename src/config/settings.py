@@ -10,7 +10,7 @@ class Settings:
     
     # Google Drive
     GOOGLE_DRIVE_FOLDER_ID = os.getenv("GOOGLE_DRIVE_FOLDER_ID", "")
-    GOOGLE_SERVICE_ACCOUNT_JSON = os.getenv("GOOGLE_SERVICE_ACCOUNT_JSON", "service_account.json")
+    GOOGLE_SERVICE_ACCOUNT_JSON = os.getenv("GOOGLE_SERVICE_ACCOUNT_JSON", "etlscholarship.json")
     
     # OpenAI
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")

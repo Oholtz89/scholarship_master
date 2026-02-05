@@ -210,7 +210,7 @@ SCORING_RUBRIC = {
 - Install additional dependencies if needed:
   ```bash
   pip install PyPDF2 python-docx openpyxl
-  ```
+  ```pt
 
 ### Database Issues
 - Delete `scholarship_submissions.db` to reset the database

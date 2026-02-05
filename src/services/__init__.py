@@ -2,7 +2,8 @@
 from .google_drive_service import GoogleDriveService
 from .document_classifier import DocumentClassifier
 from .grading_agent import GradingAgent
-from .database_service import DatabaseService
+# Use the lightweight JSON-backed DatabaseService for a simpler workflow
+from .simple_database_service import DatabaseService
 
 __all__ = [
     "GoogleDriveService",

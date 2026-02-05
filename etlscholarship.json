@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "etlscholarship",
+  "private_key_id": "b58e9ea2d0d862cec403adf7e4674cf1e2f2baae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+wvYUHjPGVojV\noXGXnM4cAyB9zZS56fDuP7/wGMbpMUF6/PAdfBaiuJZ5d98ehjlMzoR1TR9HQ3ic\ngHp++UE42yKUlr8l9/s1GSpPJewLocJRzXtgM9+Lh/ZxZgL0yKC/8ggV3ow8bdB4\nJ/VyY7CvoJmVNUlDV79tjO8j5UPsTKySpxHh/6KsTv7yJpw9aeaxfRXCtiwtZ9ut\ndkOZyESseE7KTk/j0inHD4pePYngLV2mNMVOst2PY6NcSOg5YLaPfloEOyR3X1lC\nJhOUYsKfgGvSa9shm+p7d7730HGJH6+HJ6xZMx6WswsH3Dx8j5UAwv4aTzo52dOd\n+fHfsLz7AgMBAAECggEAIUpKwXYH2QwO8yEqfqfpvC+7gtjWpJ8z4ZAUgeUBCX8E\nC1+K08ps9Na7w9Tshhosc7/yk7nyxG/842r0daYwAKkVXtLz5r9hAoIyxP88M0d2\nbuoqJr7Gu0Xt9xozV96PVw/440AkPwN3BxEKH31QP0YKp2RWNb9hc8/Nh/khomHt\n3mfZ1bKfBvHQVGWkyTikp+9hsw+bHlq/DCTcgf892gwyT34wUIwb4D8tVZpwZmXh\nQBxfsFanLKX8GCUOJ2BU7i8B7YKSr6tNQMYBVpNnVvYB2rVE0bukdaSZpPsCSF/0\nT6YQNBIlvxKrGboRc0879lmiu2DMnrq8ZD89QdCxWQKBgQDoKH6NXXwSvNTPcjKv\nrmMm32yQMp7SMZHaZaeZ6J1Jl4OnNx2rzztzrZQh7T8sBfgN6pcxhTExA/v9kGhr\nxezn2mVVkkmBWyVyODd3yTGm7ZUmAefjUYNcFFTLRjUHqbR+DAh4NzYFgVo05lko\nfBJrb0RSwGa3n4iFpsDtJQ4PXwKBgQDSWiNRvVXcfykVggNArctHc5r4yH2j2aMS\n1OR44HhGPTj2A3/LFBB9jQZDHFJqoxJKBnlutEHHsGD7rdABVQW39EmneZDByug/\nz17+W4x6v+DpzWbEpOhnsgfFnZTk4kGRKCkIhtdAZ//+E5uscoo0s8XekHehWIwD\nhMMGF90j5QKBgQCckgrffifaXz3K9kKW1y6Jne8SxQD103aBa0OAei/x3NxuXq6F\nG8sFthAMXXvYTeJASHFVdXV6kCxXkxfJb3/Z0iG7d2BZfEYh5SYLhEYXRW3sZyaj\n2WqVJCUXvq6vD1XqGGVx5hJp3hYfTSbeNecaS70xbg8YUeB5+r9scCwuUwKBgG/N\navJaENXGXH7LAJGTDfVnM5pBbc31siAjOWAp5qNmjOztRTIZ8v3YQ9jNp9x32hOw\nR0CY3FGXpKSAaIsctpJka/VwvojSIQkxXgsRe6QOciuyeYnRIJlk3Y6iR+4zd6gA\nUXbvvF7GKCDSKS7KHj0Ow/+ch4khOCHyoXmOm4IlAoGAUCOPJ8O5n8tbGAdP3igJ\nU7tVLXNLhDIZ28nmk6CMboNd2Tkk826mW11iXlUswr32HG+j3Vo66JuQn0yVjL0O\nWEugPrhkOk83Gop6pMEbDFfN+kyKfQBmY20pi8F1BZe83MEWiEl0cQdhlgx2ksYN\ndSPqNObo0nkg//Fwr5RZPz8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "etlautomate@etlscholarship.iam.gserviceaccount.com",
+  "client_id": "100926488241131847439",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/etlautomate%40etlscholarship.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
